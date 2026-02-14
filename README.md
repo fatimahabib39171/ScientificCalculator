@@ -18,9 +18,5 @@ Built using **Java Swing**, it supports arithmetic operations, trigonometric fun
 
 *(You can create screenshots of your running calculator and save them in a `screenshots` folder.)*
 
-## How to Run
-
-1. Make sure you have **Java JDK 17+** installed.
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ScientificCalculator.git
+## Author
+Fatima Habib
