@@ -13,8 +13,8 @@ Built using **Java Swing**, it supports arithmetic operations, trigonometric fun
 
 ## Screenshots
 
-![Standard Mode](screenshots/standard_mode.png)
-![Scientific Mode](screenshots/scientific_mode.png)
+![Standard Mode](screenshots/SimpleMode.png)
+![Scientific Mode](screenshots/ScientificMode.png)
 
 *(You can create screenshots of your running calculator and save them in a `screenshots` folder.)*
 
